@@ -20,9 +20,11 @@
 ![image](https://user-images.githubusercontent.com/76559002/146911073-85205c9e-8c84-4105-95e8-dc1f7f8c47a8.png)
 
 4. Создание пустых файлов с указанием имени;
+
 ![image](https://user-images.githubusercontent.com/76559002/146911168-f1a17247-d98c-4a59-8c4f-abd92650f2a8.png)
 
 5. Запись текста в файл;
+
 ![image](https://user-images.githubusercontent.com/76559002/146911212-7476bf33-6d0f-4ae5-a149-a28619661771.png)
 
 6. Просмотр содержимого текстового файла;

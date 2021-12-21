@@ -39,5 +39,10 @@
 
 9. Перемещение файлов;
 
+![image](https://user-images.githubusercontent.com/76559002/146911754-4f322c2d-852b-459d-b119-b4eea15eb665.png)
+
 10. Переименование файлов.
+
+![image](https://user-images.githubusercontent.com/76559002/146911684-c5571884-cf52-449a-be0f-187cf8f7431c.png)
+
 
